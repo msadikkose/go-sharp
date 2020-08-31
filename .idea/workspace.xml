@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d484fa6-fb41-4c7f-ba3c-6e09be49b006" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1geVo1k3nOe3LaTgvuPCev7CBwK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/const" />
+      <recent name="$PROJECT_DIR$/business/manager" />
+      <recent name="$PROJECT_DIR$/controller/user" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build go-sharp">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="go-sharp" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="ent-uow-go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build go-sharp" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-sharp" />
+      <working_directory value="$PROJECT_DIR$/../go-sharp" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/../go-sharp/main.go" />
+      <package value="go-sharp" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestUserCreate in ent-uow-go/tests (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-sharp" />
+      <working_directory value="$PROJECT_DIR$/tests" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ent-uow-go/tests" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestUserCreate\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestUserCreate in ent-uow-go/tests" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-sharp" />
+      <working_directory value="$PROJECT_DIR$/tests" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ent-uow-go/tests" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestUserCreate\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestUserGetAll in ent-uow-go/tests (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-sharp" />
+      <working_directory value="$PROJECT_DIR$/tests" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ent-uow-go/tests" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestUserGetAll\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestUserGetAll in ent-uow-go/tests" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-sharp" />
+      <working_directory value="$PROJECT_DIR$/tests" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ent-uow-go/tests" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestUserGetAll\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="go-sharp" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="ent-uow-go" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build go-sharp" />
+        <item itemvalue="Go Test.TestUserCreate in ent-uow-go/tests (1)" />
+        <item itemvalue="Go Test.TestUserCreate in ent-uow-go/tests" />
+        <item itemvalue="Go Test.TestUserGetAll in ent-uow-go/tests (1)" />
+        <item itemvalue="Go Test.TestUserGetAll in ent-uow-go/tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="608" height="466" key="DebuggerActiveHint" timestamp="1598479314950">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="608" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1598479314950" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1598864414460">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1598864414460" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1598864414459">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1598864414459" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1598864414458">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1598864414458" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1598864414460">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1598864414460" />
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom" timestamp="1598863306783">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1598863306783" />
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom/0.23.1680.953@0.23.1680.953" timestamp="1598623559180" />
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom/0.23.1680.955@0.23.1680.955" timestamp="1598782093785" />
+    <state width="1638" height="364" key="GridCell.Tab.1.center" timestamp="1598863306781">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1598863306781" />
+    <state width="1638" height="364" key="GridCell.Tab.1.center/0.23.1680.953@0.23.1680.953" timestamp="1598623559178" />
+    <state width="1638" height="364" key="GridCell.Tab.1.center/0.23.1680.955@0.23.1680.955" timestamp="1598782093784" />
+    <state width="1638" height="364" key="GridCell.Tab.1.left" timestamp="1598863306781">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1598863306781" />
+    <state width="1638" height="364" key="GridCell.Tab.1.left/0.23.1680.953@0.23.1680.953" timestamp="1598623559177" />
+    <state width="1638" height="364" key="GridCell.Tab.1.left/0.23.1680.955@0.23.1680.955" timestamp="1598782093783" />
+    <state width="1638" height="364" key="GridCell.Tab.1.right" timestamp="1598863306782">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1598863306782" />
+    <state width="1638" height="364" key="GridCell.Tab.1.right/0.23.1680.953@0.23.1680.953" timestamp="1598623559179" />
+    <state width="1638" height="364" key="GridCell.Tab.1.right/0.23.1680.955@0.23.1680.955" timestamp="1598782093784" />
+    <state x="538" y="280" width="604" height="548" key="find.popup" timestamp="1598864387884">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="538" y="280" width="604" height="548" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1598864387884" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1598617481244">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1598617481244" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../go-sharp/tests/user_test.go</url>
+          <line>57</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ent_uow_go$TestUserGet_in_ent_uow_go_tests.out" NAME="TestUserGet in ent-uow-go/tests Coverage Results" MODIFIED="1598853177289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

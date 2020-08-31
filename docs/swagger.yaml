@@ -1,0 +1,150 @@
+basePath: /api/v1
+definitions:
+  model.User:
+    properties:
+      age:
+        type: integer
+      id:
+        type: integer
+      name:
+        type: string
+    type: object
+info:
+  contact:
+    email: sadik.kose@profe.com.tr
+    name: API Support
+    url: http://profe.com.tr
+  description: This is a sample server User Crud.
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+  termsOfService: http://swagger.io/terms/
+  title: Swagger User Service
+  version: "1.0"
+paths:
+  /user/create/:
+    post:
+      consumes:
+      - application/json
+      description: Creates new user
+      parameters:
+      - description: user
+        in: body
+        name: Request
+        required: true
+        schema:
+          $ref: '#/definitions/model.User'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+        "500":
+          description: Internal Server Error
+          schema:
+            type: string
+      summary: Creates new user
+      tags:
+      - User
+  /user/delete/{idUser}:
+    delete:
+      description: Deletes user by id
+      parameters:
+      - description: used for user id
+        in: path
+        name: idUser
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+        "400":
+          description: Bad Request
+          schema:
+            type: string
+        "404":
+          description: Not Found
+          schema:
+            type: string
+      summary: Deletes user
+      tags:
+      - User
+  /user/get-all/:
+    get:
+      description: Gets all users
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/model.User'
+            type: array
+        "500":
+          description: Internal Server Error
+          schema:
+            type: string
+      summary: Gets all users
+      tags:
+      - User
+  /user/get/{idUser}:
+    get:
+      description: Gets user by id
+      parameters:
+      - description: used for user id
+        in: path
+        name: idUser
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/model.User'
+        "400":
+          description: Bad Request
+          schema:
+            type: string
+        "404":
+          description: Not Found
+          schema:
+            type: string
+      summary: Gets user
+      tags:
+      - User
+  /user/update/:
+    put:
+      consumes:
+      - application/json
+      description: Updates existing user
+      parameters:
+      - description: user
+        in: body
+        name: Request
+        required: true
+        schema:
+          $ref: '#/definitions/model.User'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+        "500":
+          description: Internal Server Error
+          schema:
+            type: string
+      summary: Updates existing user
+      tags:
+      - User
+swagger: "2.0"
