@@ -1,6 +1,6 @@
 GoSharp
 Introduction
-Welcome to [GoSharp], a unique repository designed to showcase practical examples and use cases similar to those found in C# projects, adapted for Go (Golang). This project serves as a bridge for developers coming from a C# background or those interested in exploring how certain concepts may be implemented in Go, despite not strictly adhering to Go's conventional best practices.
+Welcome to GoSharp, a unique repository designed to showcase practical examples and use cases similar to those found in C# projects, adapted for Go (Golang). This project serves as a bridge for developers coming from a C# background or those interested in exploring how certain concepts may be implemented in Go, despite not strictly adhering to Go's conventional best practices.
 
 Disclaimer
 Before diving into the code, it's important to acknowledge that this project intentionally deviates from some of the established Go programming paradigms and best practices. The design decisions and coding styles adopted here might reflect more closely those found in C# projects, resulting in patterns that are not typically recommended in Go development communities.
